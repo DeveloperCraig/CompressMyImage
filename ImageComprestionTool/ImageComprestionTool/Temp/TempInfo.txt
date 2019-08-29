@@ -1,0 +1,11 @@
+﻿------------------------------------------------------What is in temp info?-----------------------------------------------------------
+
+
+
+Inside this folder can be files created when a image is trying to be converted or compressed.
+
+These files can become fairly large at times depending on the computers hardware.
+
+Higher the specs of the computer means that there is a much lower chance of temp files being created, this is due to the 
+computer being able to process all of the image data.
+However, a lower spec computer might need some help to convert larger images which is why large temp files might appear in this folder.
