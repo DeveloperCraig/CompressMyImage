@@ -22,4 +22,4 @@ https://github.com/dlemstra/Magick.NET
 ***Ghostscript (This is used for the PDF part of the application)***
 
 https://www.ghostscript.com
-**(This is Free to use for the public but needs a license for commercial use)**
+**(This is Free to use for the public use, and will needs a license for commercial use)**
