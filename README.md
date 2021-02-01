@@ -1,3 +1,4 @@
+
 # CompressMyImage
 This windows forms app will allow you to easily make a image bigger and smaller and allow you to try out different Image formats with the hope to make the file size smaller without losing quality.
 
@@ -14,9 +15,11 @@ This originally was a project created for my apprenticeship, however once the pr
 
 
 ## This Project Uses mainly these Library's 
-***Magick.NET (This is a open source Image manipulating Library for .NET***
+***Magick.NET (This is a open source Image manipulating Library for .NET)***
+
 https://github.com/dlemstra/Magick.NET
 
-***ghostscript (This is used for the PDF part of the application) ***
+***Ghostscript (This is used for the PDF part of the application)***
+
 https://www.ghostscript.com
 **(This is Free to use for the public but needs a license for commercial use)**
