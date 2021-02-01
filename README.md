@@ -7,6 +7,16 @@ This windows forms app will allow you to easily make a image bigger and smaller 
 ```diff
 - When debuging the project please make sure that you Debug in 64bit mode otherwise it will throw an exsption
 - Warning, if you make a image too big it can cause a memory leak and cause big files to be made in the projects Temp Folder
+- This is NOT for commercial use!
 ```
 ## Extra information
 This originally was a project created for my apprenticeship, however once the project was finished, I continued working on it and added extra ideas to it such as a convert PDF to image  
+
+
+## This Project Uses mainly these Library's 
+***Magick.NET (This is a open source Image manipulating Library for .NET***
+https://github.com/dlemstra/Magick.NET
+
+***ghostscript (This is used for the PDF part of the application) ***
+https://www.ghostscript.com
+**(This is Free to use for the public but needs a license for commercial use)**
